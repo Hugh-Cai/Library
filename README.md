@@ -1,3 +1,3 @@
 # Library
 store materials
-## * reinforcement learning
+## *Reinforcement Learning materials
