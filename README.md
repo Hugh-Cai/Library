@@ -1,4 +1,4 @@
 # Library
 storage materials
 - Reinforcement Learning Library
-- Figures of Papers
+- Figures of Paper
